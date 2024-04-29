@@ -1,8 +1,10 @@
-body{
+body
+{
     text-align: center;
     background-color: #b197fc;
 }
-h1{
+h1
+{
     color: black;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -11,7 +13,8 @@ h1{
     font-weight: 600;
     line-height: 2rem;
 }
-#message{
+#message
+{
     color: white;
     font-family: cursive;
     font-size: 35px;
@@ -19,14 +22,16 @@ h1{
     line-height: 2rem;
     padding-bottom: 10px;
 }
-p{
+p
+{
     font-family: sans-serif;
     font-size: 30px;
     font-weight: 100;
     line-height: 2rem;
     color: white;
 }
-#s_btn{
+#s_btn
+{
     width: 190px;
     padding-top: 7px;
     padding-bottom: 7px;
@@ -37,7 +42,8 @@ p{
     border-radius: 30px;
     line-height: 2rem;
 }
-#n_btn{
+#n_btn
+{
     width: 190px;
     padding-top: 7px;
     padding-bottom: 7px;
@@ -48,7 +54,8 @@ p{
     border-radius: 30px;
     line-height: 2rem;   
 }
-#player{
+#player
+{
     font-family: sans-serif;
     font-size: 30px;
     font-weight: 100;
