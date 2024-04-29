@@ -1,7 +1,8 @@
 // Generating Random Number 
 var firstCard= (Math.floor(Math.random()*10))+2;
 var secondCard= (Math.floor(Math.random()*10))+2;
-var cards=[firstCard,secondCard];
+// Creating array 
+var cards=[firstCard,secondCard];       
 var sum= firstCard + secondCard;
 var bJack= false;         // Boolean variable
 var isAlive=true;         // Boolean variable
