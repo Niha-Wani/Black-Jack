@@ -46,7 +46,8 @@ function newCard()
     }
 }
 // Object
-var players = {
+var players =
+{
    name: "Ahmad",
    tips: 145
 }
